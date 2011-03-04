@@ -1,4 +1,4 @@
-#!/usr/bin/python -B
+#!/bin/bash ../../python-wrapper.py
 
 import os
 import sys

@@ -1,3 +1,4 @@
 profiles/*/build-root
 solitary/Options.cs
 solitary/Solitary.exe*
+*.pyc
